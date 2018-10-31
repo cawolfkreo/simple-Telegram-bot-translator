@@ -29,6 +29,6 @@
     "botgram": "^2.2.0",
     "dotenv": "^6.1.0",
     "express": "^4.16.4",
-    "google-translate-api": "^2.3.0"
+    "google-translate-api": "github:vitalets/google-translate-api"
   }
 }
