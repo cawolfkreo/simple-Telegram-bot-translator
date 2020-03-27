@@ -26,9 +26,10 @@
   },
   "homepage": "https://github.com/cawolfkreo/simple-Telegram-bot-translator#readme",
   "dependencies": {
+    "@vitalets/google-translate-api": "github:vitalets/google-translate-api",
     "botgram": "^2.2.0",
-    "dotenv": "^6.1.0",
-    "express": "^4.16.4",
+    "dotenv": "^6.2.0",
+    "express": "^4.17.1",
     "google-translate-api": "github:vitalets/google-translate-api"
   }
 }
